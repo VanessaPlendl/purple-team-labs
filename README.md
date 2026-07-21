@@ -7,4 +7,15 @@ A hands-on cybersecurity portfolio focused on Purple Team operations, adversary 
 </p>
 
 <p>
-<em>🚧 Coming Soon</em></p>
+<em>🚧 Coming Soon</em>
+</p>
+
+<!-- Replace the line above with this when the repository is created.
+
+<p>
+<a href="https://github.com/VanessaPlendl/purple-team-labs">
+🔗 View Purple Team Labs
+</a>
+</p>
+
+-->
